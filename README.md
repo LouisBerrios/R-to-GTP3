@@ -1,2 +1,2 @@
-# R-to-GTP3
-R Studio connection to GTP-3 model
+# R-to-GPT3
+R Studio connection to GPT3 model
